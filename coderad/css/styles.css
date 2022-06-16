@@ -58,6 +58,9 @@
     font-weight: 600;
     font-family: "hind",sans-serif;
     text-transform: uppercase;
-    margin-right: 2.5rem;
+    margin-right: var(--size-40);
     line-height: 1.25;
+}
+.hero-header{
+    color: var(--white);
 }
